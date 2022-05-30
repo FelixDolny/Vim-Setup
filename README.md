@@ -9,3 +9,5 @@ What's enabled in my vimrc:
 5. show line numbers
 6. spell checker 
 7. colorscheme: xcodedark 
+
+Place vim colors in /usr/share/vim/vim82/colors/
